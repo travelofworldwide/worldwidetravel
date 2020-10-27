@@ -1,0 +1,54 @@
+1-Nigeria
+2-Ethiopia
+3-Egypt
+4-Democratic Republic of the Congo
+5-Tanzania
+6-South Africa
+7-Kenya
+8-Uganda
+9-Algeria
+10-Sudan
+11-Morocco
+12-Mozambique
+13-Ghana	
+14-Angola	
+15-Somalia	
+16-Ivory Coast	
+17-Madagascar	
+18-Cameroon	
+19-Burkina Faso	
+20-Niger	
+21-Malawi	
+22-Zambia	
+23-Mali	
+24-Senegal	
+25-Zimbabwe	
+26-Chad	
+27-Tunisia	
+28-Guinea	
+29-Rwanda
+30-Benin	
+31-Burundi	
+32-South Sudan
+33-Eritrea	
+34-Sierra Leone	
+35-Togo	
+36-Libya
+37-Central African Republic
+38-Mauritania
+39-Republic of the Congo
+40-Liberia
+41-Namibia
+42-Botswana
+43-Lesotho
+44-Gambia
+45-Gabon
+46-Guinea-Bissau
+47-Mauritius
+48-Equatorial Guinea
+49-Eswatini
+50-Djibouti
+51-Comoros
+52-Cape Verde
+53-São Tomé and Príncipe
+54-Seychelles
